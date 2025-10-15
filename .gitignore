@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env*
+
+# Virtual env
+venv/
+ENV/
+.venv/
+
+# OS/files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+logs/
+
+# Builds/archives
+*.zip
+*.tar
+*.tar.gz
+
+# Data/models
+Training Again/dataset/
+Training Again/runs/
+*.pt
+*.onnx
+
+# Uploads
+static/uploads/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Misc
+start
+_restore_temp/
